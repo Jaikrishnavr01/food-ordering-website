@@ -1,0 +1,10 @@
+.siteundercontruction{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+
+}
+.siteundercontruction p{
+    color: tomato;
+}
