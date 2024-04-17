@@ -45,6 +45,11 @@
     border: none;
 }
 
+.footer-content-left .logo{
+    width: 20%;
+
+}
+
 
 /* mobile responsive */
 
@@ -56,5 +61,8 @@
     }
     .footer-copyright{
         text-align: center;
+    }
+    .footer-content-left .logo{
+        width: 140px;
     }
 }

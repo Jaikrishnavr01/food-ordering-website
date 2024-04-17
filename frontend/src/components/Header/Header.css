@@ -53,6 +53,11 @@
     .header-contents{
         max-width: 65%;
     }
+    .header-contents h2{
+        font-weight: 500;
+        color: white;
+        font-size: max(4.5vw ,12px);
+    }
     .header-contents p{
         display: none;
     }
